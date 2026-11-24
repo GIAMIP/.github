@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="../assets/giamip-logo.png" alt="GIAMIP logo" width="300">
-</p>
-
 # GIAMIP
 
 **GIAMIP** is a coordinated international model intercomparison project on how the solid Earth responds to ice-sheet change over the Last Glacial Cycle (~122,000 years ago to present). It compares solid Earth deformation, gravity-field change and Earth rotation across models to quantify uncertainty in glacial isostatic adjustment (GIA) and GRD (gravitational, rotational and deformational) processes.
@@ -20,6 +16,7 @@ The GIAMIP protocol was officially launched in July 2026.
 | 📊 List of experiments | [List of Experiments.xlsx](https://drive.google.com/file/d/1P62LPaUR48VnW2XwnfD6arjzOWMsr5Qq/view?usp=sharing) |
 | 🖼️ AGU 2025 poster | [Poster_GIAMIP_AGU2025_Final.pdf](https://drive.google.com/file/d/1KOohvP3XBUn--BXcOe7qHEt_19dca92s/view?usp=sharing) |
 | 🗣️ AGU 2025 abstract | [AGU Fall Meeting 2025](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1901607) |
+| 🎨 Logo | [giamip-logo.png](https://github.com/GIAMIP/.github/blob/main/assets/giamip-logo.png) |
 
 **Objectives**
 
@@ -49,7 +46,7 @@ The full list of contributors is on the [Team page](https://sites.google.com/vie
 
 ## Contact
 
-We welcome community contributions. For questions or to get involved, contact **grdmip [at] gmail.com** or **kyhan [at] jpl.nasa.gov**, or see the [Contact page](https://sites.google.com/view/giagrdmip/contact).
+We welcome community contributions. For questions or to get involved, contact **holly.han@dartmouth.edu**, or see the [Contact page](https://sites.google.com/view/giagrdmip/contact).
 
 ---
 
