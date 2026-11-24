@@ -1,4 +1,4 @@
-# GIAMIP
+# GIAMIP — Glacial Isostatic Adjustment Model Intercomparison Project
 
 **GIAMIP** is a coordinated international model intercomparison project on how the solid Earth responds to ice-sheet change over the Last Glacial Cycle (~122,000 years ago to present). It compares solid Earth deformation, gravity-field change and Earth rotation across models to quantify uncertainty in glacial isostatic adjustment (GIA) and GRD (gravitational, rotational and deformational) processes.
 
